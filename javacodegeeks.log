@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-03-26T13:01:39</date>
+  <millis>1553605299249</millis>
+  <sequence>0</sequence>
+  <logger>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</logger>
+  <level>CONFIG</level>
+  <class>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</class>
+  <method>loadData</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2019-03-26T13:01:39</date>
+  <millis>1553605299436</millis>
+  <sequence>1</sequence>
+  <logger>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</logger>
+  <level>FINE</level>
+  <class>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</class>
+  <method>loadData</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2019-03-26T13:01:39</date>
+  <millis>1553605299436</millis>
+  <sequence>2</sequence>
+  <logger>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</logger>
+  <level>FINER</level>
+  <class>com.example.springbootswagger2.dataloader.ReadTestDataFromExcel</class>
+  <method>loadData</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
